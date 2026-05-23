@@ -1,10 +1,6 @@
-E-Commerce Website
-Multi-page e-commerce site built with HTML, CSS, and Vanilla JavaScript.
+# E-Commerce Website
 
-Pages
-Home, Shop, Product, Cart, Contact
-
-Tech
-HTML5, CSS3, JavaScript, Font Awesome 6
-
-
+I built this project to practice frontend development and improve my understanding of how multi-page websites are structured and designed.
+While working on it, I focused on building a clean layout, connecting different pages together, and making the website more interactive using JavaScript.
+The project includes pages such as Home, Shop, Product, Cart, and Contact. Through this project, I learned more about responsive design, organizing frontend code, and improving the overall user experience and navigation between pages.
+This project was built using HTML5, CSS3, Vanilla JavaScript.
